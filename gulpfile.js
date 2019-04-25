@@ -105,7 +105,7 @@ gulp.task('watch', function () {
         styleDirectories,
     );
 
-    console.log('WATCHING FOR FILE CHANGES IN:');
+    console.log('WATCHING FOR CHANGES IN:');
     console.log(watchDiretories);
 
     gulp.watch(watchDiretories, build);
