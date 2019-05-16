@@ -8,9 +8,13 @@ function test(){
 }
 
 function test2(){
-    console.log('test')
+    console.log('test2')
 }
 
 function test3(){
-    console.log('test')
+    console.log('test3')
+}
+
+function test4(){
+    console.log('test4')
 }

@@ -3,14 +3,18 @@
 
 // Write your JavaScript code.
 
-function test(){
-    console.log('test')
+function test5(){
+    console.log('test5')
 }
 
-function test2(){
-    console.log('test')
+function test6(){
+    console.log('test6')
 }
 
-function test3(){
-    console.log('test')
+function test7(){
+    console.log('test7')
+}
+
+function test8(){
+    console.log('test8')
 }
